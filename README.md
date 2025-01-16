@@ -27,9 +27,9 @@ Contoh implementasi sederhana untuk manajemen Role dan Permission menggunakan pa
 
 ## Source Kode Implementasi
 
-| Source   | Status  | Link |
-| -------- | ------- | ---- |
-| **Repo** | Private | None |
+| Source                                          | Status  | Link |
+| ----------------------------------------------- | ------- | ---- |
+| **Repo Example Implementasi Spatie Permission** | Private | None |
 
 ## Deskripsi Spatie Permission
 
