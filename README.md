@@ -25,6 +25,12 @@ Contoh implementasi sederhana untuk manajemen Role dan Permission menggunakan pa
 | **Server**   | PHP, Laravel                     |
 | **Database** | MySQL                            |
 
+## Source Kode Implementasi
+
+| Source   | Status  | Link |
+| -------- | ------- | ---- |
+| **Repo** | Private | None |
+
 ## Deskripsi Spatie Permission
 
 Spatie Permission adalah sebuah package untuk mengelola **roles** dan **permissions** di Laravel. Package ini menggunakan beberapa tabel untuk memetakan hubungan antara model, role, dan permission.
@@ -109,6 +115,6 @@ Spatie Permission adalah sebuah package untuk mengelola **roles** dan **permissi
 
 ## Feedback
 
-Silahkan berikan feedback atau pertanyaan ke email berikut ini:
+Silahkan berikan feedback atau Ingin mendapatkan Source, Silahkan Hubungi Email Dibawah ini :
 
 [![Hubungi Kami](https://img.shields.io/badge/Hubungi%20Kami-Email%20Sekarang-blue)](mailto:mikozua45@gmail.com)
